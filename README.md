@@ -1,5 +1,7 @@
 # Echoserver
 Echo server and client using python socket
+# Name:Nihil kk
+# Reg no:212221223003
 
 # AIM:
 
